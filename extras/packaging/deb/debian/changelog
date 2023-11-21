@@ -1,3 +1,9 @@
+qtrvsim (0.9.5-1.1) unstable; urgency=medium
+
+  * Debian package updated to version 0.9.5-1.1.
+
+ -- weilinfox <caiweilin@iscas.ac.cn>  Tue, 21 Nov 2023 13:36:37 +0800
+
 qtrvsim (0.9.5-1) unstable; urgency=medium
 
   * Machine: use cvector in instruction args to spedup decoding
